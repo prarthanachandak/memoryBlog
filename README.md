@@ -1,2 +1,0 @@
-# memoryBlog
-Record your memories
